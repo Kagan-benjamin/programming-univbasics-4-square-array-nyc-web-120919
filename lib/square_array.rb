@@ -5,5 +5,5 @@ def square_array(array)
     array[i]**2 
     i += 1 
   end
-  
+  answer_array = []
 end
